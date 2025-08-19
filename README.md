@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
