@@ -20,6 +20,7 @@
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/manishkumar0604/DSA_practice/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
+| [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
