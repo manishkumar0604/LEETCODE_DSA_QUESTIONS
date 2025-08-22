@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
@@ -42,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
