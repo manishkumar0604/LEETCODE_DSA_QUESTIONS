@@ -13,7 +13,7 @@ public:
         ListNode* slow=head;
 
         bool isCycle=false;
-        while(fast!=NULL && fast->next!=NULL)  // this loop detect loop or not 
+        while(fast!=NULL && fast->next!=NULL)  // this loop detect cycle form or not 
         {
             slow=slow->next;
             fast=fast->next->next;
