@@ -32,7 +32,7 @@ public:
             slow=slow->next;
             fast=fast->next;
         }
-        return slow;
+        return slow;     // it return the index where loop formed
         
     }
 };
