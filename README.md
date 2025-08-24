@@ -55,6 +55,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
