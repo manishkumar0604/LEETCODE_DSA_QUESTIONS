@@ -39,6 +39,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
