@@ -16,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0125-valid-palindrome) |
@@ -32,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0344-reverse-string) |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
