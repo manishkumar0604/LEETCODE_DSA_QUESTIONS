@@ -15,6 +15,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -64,12 +65,14 @@
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -131,4 +134,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 <!---LeetCode Topics End-->
