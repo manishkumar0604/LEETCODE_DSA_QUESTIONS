@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -59,6 +61,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/manishkumar0604/DSA_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 ## Math
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
