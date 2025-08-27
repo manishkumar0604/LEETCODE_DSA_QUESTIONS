@@ -21,7 +21,7 @@ public:
         for(int i=0;i<nums.size();i++){
             set.insert(nums[i]);
         }
-        return set.size();  //return the size of array after eleminating all 
+        return set.size();  //return the size of array after eleminating all duplicate elemnt.
         
     }
 };
