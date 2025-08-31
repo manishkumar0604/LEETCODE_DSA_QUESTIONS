@@ -76,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manishkumar0604/DSA_practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/manishkumar0604/DSA_practice/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
@@ -84,6 +85,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/manishkumar0604/DSA_practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 ## Simulation
