@@ -80,6 +80,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/manishkumar0604/DSA_practice/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/manishkumar0604/DSA_practice/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/manishkumar0604/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
