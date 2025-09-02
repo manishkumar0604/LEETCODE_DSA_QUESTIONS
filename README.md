@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
@@ -152,6 +153,7 @@
 | [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
