@@ -90,6 +90,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/manishkumar0604/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/manishkumar0604/DSA_practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
@@ -180,4 +181,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/manishkumar0604/DSA_practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
