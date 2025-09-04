@@ -61,6 +61,7 @@
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0742-to-lower-case](https://github.com/manishkumar0604/DSA_practice/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
+| [1205-defanging-an-ip-address](https://github.com/manishkumar0604/DSA_practice/tree/master/1205-defanging-an-ip-address) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
