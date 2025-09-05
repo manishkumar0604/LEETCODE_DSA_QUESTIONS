@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Number Theory
 |  |
 | ------- |
@@ -190,4 +192,5 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/manishkumar0604/DSA_practice/tree/master/0319-bulb-switcher) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
