@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishkumar0604/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
+| [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
