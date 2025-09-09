@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s)
-    {
-        int n=s.length();
-        unordered_set<int>st;
-        int maxi=0;
-        int left=0;
-        for(int i=0;i<n;i++)
+    //two pointers .
+    int lengthOfLongestSubstring(string s) {
+        vector<bool> count(256,0);
+        int first=0,second=0,maxlen=0;
+        while(second<s.size())
         {
-            while(st.find(s[i])!=st.end())
+            //repeating letter
+            while(count[s[second]])
             {
-                st.erase(s[left]);
-                left++;
+                count[s[first]]=0;
+                first++;
             }
-            st.insert(s[i]);
-            maxi=max(maxi,i-left+1);
+            count[s[second]]=1;
+            maxlen=max(maxlen,second-first+1);
+            second++;
         }
-        return maxi;
+        return maxlen;
+        
     }
 };
