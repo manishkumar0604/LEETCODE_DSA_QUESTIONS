@@ -26,6 +26,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/manishkumar0604/DSA_practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
@@ -54,6 +55,7 @@
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 ## String
 |  |
@@ -178,6 +180,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/manishkumar0604/DSA_practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
