@@ -56,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 ## String
@@ -74,6 +75,7 @@
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/manishkumar0604/DSA_practice/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/manishkumar0604/DSA_practice/tree/master/0742-to-lower-case) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/manishkumar0604/DSA_practice/tree/master/1205-defanging-an-ip-address) |
@@ -105,6 +107,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Matrix
 |  |
@@ -220,4 +224,12 @@
 | ------- |
 | [0319-bulb-switcher](https://github.com/manishkumar0604/DSA_practice/tree/master/0319-bulb-switcher) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
