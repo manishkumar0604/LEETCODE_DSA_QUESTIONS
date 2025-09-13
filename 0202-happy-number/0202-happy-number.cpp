@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        int num = n;
-        while(n>9){
-            int x = 0;
-            while(n!=0){
-                int a = n%10;
-                n/=10;
-                x += (a*a);
+        while (n > 9) {
+            int sum = 0;
+            while (n) {
+                int d = n % 10;
+                sum += d * d;
+                n /= 10;
             }
-            n=x;
+            n = sum;
         }
-        if(n==1 || n==7){
-            return true;
-        }
-        return false;
+        return n == 1 || n == 7;
     }
 };
