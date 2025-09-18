@@ -101,6 +101,7 @@
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [2048-build-array-from-permutation](https://github.com/manishkumar0604/DSA_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
