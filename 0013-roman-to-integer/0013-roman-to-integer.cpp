@@ -20,7 +20,7 @@ public:
                 sum-=num(s[index]);
             else
                 sum+=num(s[index]);
-            index++;
+            index++;  //index increase.
         }
         sum+=num(s[s.size()-1]);  //last element of string.
         return sum;
