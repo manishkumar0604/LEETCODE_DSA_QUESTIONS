@@ -1,20 +1,20 @@
 class Solution {
 public:
     int maxFrequencyElements(vector<int>& nums) {
-        int maxlen = 0;
-        int n = nums.size();
-        vector<int> ans(101, 0);
+        unordered_map<int,int> freq;
+        int maxFreq = 0;
 
-        for (int i = 0; i < n; i++) {
-            ans[nums[i]]++;
+        // Count frequencies
+        for (int x : nums) {
+            freq[x]++;
+            maxFreq = max(maxFreq, freq[x]);
         }
-        for (int i = 0; i < 101; i++) {
-            maxlen = max(maxlen, ans[i]);
-        }
-        int total = 0;  
-        for (int i = 0; i < 101; i++) {
-            if (maxlen == ans[i]) {
-                total += ans[i];  
+
+        // Count total contribution of elements with maxFreq
+        int total = 0;
+        for (auto &p : freq) {
+            if (p.second == maxFreq) {
+                total += p.second;
             }
         }
 
