@@ -40,6 +40,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -191,6 +192,7 @@
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sliding Window
 |  |
 | ------- |
