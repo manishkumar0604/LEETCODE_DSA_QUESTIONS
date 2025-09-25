@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/manishkumar0604/DSA_practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -226,6 +228,7 @@
 | [0162-find-peak-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/manishkumar0604/DSA_practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -278,4 +281,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
