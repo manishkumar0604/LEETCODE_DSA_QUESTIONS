@@ -117,6 +117,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
+| [3468-find-the-encrypted-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
