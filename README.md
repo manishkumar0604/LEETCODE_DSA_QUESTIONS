@@ -94,6 +94,7 @@
 | [0012-integer-to-roman](https://github.com/manishkumar0604/DSA_practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/manishkumar0604/DSA_practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/manishkumar0604/DSA_practice/tree/master/0165-compare-version-numbers) |
@@ -124,6 +125,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0020-valid-parentheses) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
