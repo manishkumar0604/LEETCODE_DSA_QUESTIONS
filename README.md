@@ -46,6 +46,7 @@
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
