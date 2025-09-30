@@ -50,6 +50,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -189,6 +190,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/manishkumar0604/DSA_practice/tree/master/2752-sum-multiples) |
+| [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3830-find-closest-person](https://github.com/manishkumar0604/DSA_practice/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -247,6 +249,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0258-add-digits) |
+| [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 ## Linked List
 |  |
 | ------- |
