@@ -7,7 +7,7 @@ public:
             st.insert(nums[i]);
         }
         for (int i=1;i<=nums.size();i++) {
-            if (st.find(i)==st.end()) answer.emplace_back(i); 
+            if (st.find(i)==st.end()) answer.push_back(i); 
         }
         return answer;
     }
