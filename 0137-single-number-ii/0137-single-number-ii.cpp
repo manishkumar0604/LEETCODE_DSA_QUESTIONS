@@ -9,7 +9,7 @@ public:
         }
         for(auto it: mp)
         {
-            if(it.second==1) return it.first;
+            if(it.second<3) return it.first;
         }
         return -1;
     }
