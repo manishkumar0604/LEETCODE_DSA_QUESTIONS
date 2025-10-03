@@ -10,7 +10,7 @@ public:
         }
         for(auto it: mp)
         {
-            if(it.second<2)  ans.push_back(it.first);
+            if(it.second==1)  ans.push_back(it.first);
         }
         return ans;
     }
