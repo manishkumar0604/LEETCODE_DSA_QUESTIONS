@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/manishkumar0604/DSA_practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/manishkumar0604/DSA_practice/tree/master/0074-search-a-2d-matrix) |
@@ -68,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/manishkumar0604/DSA_practice/tree/master/0141-linked-list-cycle) |
