@@ -61,6 +61,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
@@ -110,6 +111,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 ## String
 |  |
@@ -221,6 +223,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/manishkumar0604/DSA_practice/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3830-find-closest-person](https://github.com/manishkumar0604/DSA_practice/tree/master/3830-find-closest-person) |
