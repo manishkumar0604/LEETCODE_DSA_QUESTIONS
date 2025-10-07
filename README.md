@@ -57,6 +57,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
@@ -185,6 +186,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
 ## Math
