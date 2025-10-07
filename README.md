@@ -94,6 +94,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3195-separate-black-and-white-balls](https://github.com/manishkumar0604/DSA_practice/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/manishkumar0604/DSA_practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/manishkumar0604/DSA_practice/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-score-of-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3636-check-balanced-string) |
@@ -270,6 +272,7 @@
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3195-separate-black-and-white-balls](https://github.com/manishkumar0604/DSA_practice/tree/master/3195-separate-black-and-white-balls) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 ## Sliding Window
