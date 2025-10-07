@@ -4,8 +4,9 @@ public:
         vector<int> ans;
         for(int it:nums)
         {
-            ans.emplace_back(abs(it*it));
+            ans.emplace_back(it*it);
         }
+        int n=ans.size()-1;
         sort(ans.begin(),ans.end());
         return ans;
 
