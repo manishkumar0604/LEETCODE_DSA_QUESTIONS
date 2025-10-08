@@ -1,29 +1,21 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> merged;
-        for(int i=0;i<nums1.size();i++)
-        {
-            merged.push_back(nums1[i]);
-        }
-        for(int i=0;i<nums2.size();i++)
-        {
-            merged.push_back(nums2[i]);
-        }
-        sort(merged.begin(), merged.end());
+        vector<int> ans;
+        // merge both arrays
+        ans.insert(ans.end(), nums1.begin(), nums1.end());
+        ans.insert(ans.end(), nums2.begin(), nums2.end());
 
-        int total = merged.size();
+        // sort combined array
+        sort(ans.begin(), ans.end());
 
-        if (total % 2 == 1) {
-            return static_cast<double>(merged[total / 2]);
-        }
-         else {
-            // If the total number of elements is even, calculate the average of the two middle elements as the median.
-            int middle1 = merged[total / 2 - 1];
-            int middle2 = merged[total / 2];
-            return (static_cast<double>(middle1) + static_cast<double>(middle2)) / 2.0;
-        }
-    
-        
+        int s = ans.size();
+        if (s == 0) return 0.0;
+
+        int mid = s / 2;
+        if (s % 2 == 1)
+            return static_cast<double>(ans[mid]);
+        else
+            return (ans[mid - 1] + ans[mid]) / 2.0;
     }
 };
