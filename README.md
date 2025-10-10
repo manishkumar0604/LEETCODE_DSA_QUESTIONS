@@ -234,6 +234,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/manishkumar0604/DSA_practice/tree/master/2752-sum-multiples) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
