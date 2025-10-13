@@ -2,15 +2,17 @@ class Solution {
 public:
     vector<string> removeAnagrams(vector<string>& words) {
         vector<string> result;
-        string prevSorted = "";
+        vector<int> prevFreq(26, 0);
 
         for (const string& word : words) {
-            string sortedWord = word;
-            sort(sortedWord.begin(), sortedWord.end());
+            vector<int> currFreq(26, 0);
+            for (char ch : word) {
+                currFreq[ch - 'a']++;
+            }
 
-            if (sortedWord != prevSorted) {
-                result.push_back(word);
-                prevSorted = sortedWord;
+            if (currFreq != prevFreq) {
+                result.emplace_back(word);
+                prevFreq = move(currFreq); // Avoid copy
             }
         }
 
