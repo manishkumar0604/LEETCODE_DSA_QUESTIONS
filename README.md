@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manishkumar0604/DSA_practice/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/manishkumar0604/DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
@@ -414,6 +415,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 ## Trie
 |  |
