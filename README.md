@@ -98,6 +98,7 @@
 | [0344-reverse-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/manishkumar0604/DSA_practice/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
@@ -151,6 +152,7 @@
 | [0344-reverse-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/manishkumar0604/DSA_practice/tree/master/0443-string-compression) |
@@ -354,6 +356,7 @@
 | [0070-climbing-stairs](https://github.com/manishkumar0604/DSA_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
