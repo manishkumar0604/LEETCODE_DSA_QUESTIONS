@@ -37,6 +37,7 @@
 | [0274-h-index](https://github.com/manishkumar0604/DSA_practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/manishkumar0604/DSA_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -129,6 +130,7 @@
 | [0217-contains-duplicate](https://github.com/manishkumar0604/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/manishkumar0604/DSA_practice/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -217,6 +219,7 @@
 | [0217-contains-duplicate](https://github.com/manishkumar0604/DSA_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/manishkumar0604/DSA_practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
@@ -399,10 +402,12 @@
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manishkumar0604/DSA_practice/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -430,12 +435,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/manishkumar0604/DSA_practice/tree/master/1127-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 ## Monotonic Stack
 |  |
@@ -466,6 +473,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
