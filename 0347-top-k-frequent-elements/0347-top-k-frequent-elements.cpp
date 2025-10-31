@@ -17,8 +17,8 @@ public:
                 maxiIndex=it.first;
                 } 
             }
-            ans.emplace_back(maxiIndex);
-            mp.erase(maxiIndex);
+            ans.emplace_back(maxiIndex);  // push maximum frequency number
+            mp.erase(maxiIndex);   // delete maximum element with index.
             k--;
         }
         return ans;
