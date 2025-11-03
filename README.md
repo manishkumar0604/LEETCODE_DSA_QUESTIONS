@@ -65,6 +65,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/manishkumar0604/DSA_practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [2737-row-with-maximum-ones](https://github.com/manishkumar0604/DSA_practice/tree/master/2737-row-with-maximum-ones) |
@@ -299,6 +300,7 @@
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
