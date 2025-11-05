@@ -16,6 +16,7 @@
 | [0035-search-insert-position](https://github.com/manishkumar0604/DSA_practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/manishkumar0604/DSA_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
@@ -325,6 +326,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
@@ -403,6 +405,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/manishkumar0604/DSA_practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
