@@ -11,18 +11,20 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev=NULL;   //here intiallise prev pointer 
-        ListNode* curr=head;    // current pointer
-        ListNode* next=NULL;    //and next pointer
-
-        while(curr!=NULL){         // loop run until current pointer reaches the null
-            next=curr->next;    //next point initalize current of next
-            curr->next=prev;    //current next reverse the direction so current next intailize with prev(null)
-
-            prev=curr;          //after previous goes to current pointer
-            curr=next;          // and current pointer goes to next pointer.
+        ListNode * temp=head;
+        stack<int> st;
+        while(temp!=NULL)
+        {
+            st.push(temp->val);
+            temp=temp->next;
         }
-        return prev;            //return previous because it points to null pointer 
-        
+        temp=head;
+        while(temp!=NULL)
+        {
+            temp->val=st.top();
+            st.pop();
+            temp=temp->next;
+        }
+        return head;
     }
 };
