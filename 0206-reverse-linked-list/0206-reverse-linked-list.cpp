@@ -13,12 +13,14 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode * temp=head;
         stack<int> st;
+        //push all the element into the stack
         while(temp!=NULL)
         {
             st.push(temp->val);
             temp=temp->next;
         }
-        temp=head;
+        temp=head;  // reintialized temp to starting head node
+        //push all stack element into LL.
         while(temp!=NULL)
         {
             temp->val=st.top();
