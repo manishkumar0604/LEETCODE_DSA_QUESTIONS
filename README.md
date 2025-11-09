@@ -276,6 +276,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/manishkumar0604/DSA_practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1965-sum-of-digits-in-base-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+| [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/manishkumar0604/DSA_practice/tree/master/2752-sum-multiples) |
@@ -308,6 +309,7 @@
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
