@@ -9,30 +9,28 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        ListNode* fast=head;
-        ListNode* slow=head;
+        if (head == NULL || head->next == NULL)
+            return NULL;
 
-        bool isCycle=false;
-        while(fast!=NULL && fast->next!=NULL)  // this loop detect cycle form or not 
-        {
-            slow=slow->next;
-            fast=fast->next->next;
-            if(slow==fast)
-            {
-                isCycle=true;
-                break;
+        ListNode *slow = head;
+        ListNode *fast = head;
+
+        // Detect if a cycle exists
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+
+            if (slow == fast) {
+                // Find start of the cycle
+                slow = head;
+                while (slow != fast) {
+                    slow = slow->next;
+                    fast = fast->next;
+                }
+                return slow; // starting node of cycle
             }
         }
 
-        if(!isCycle)            // if not cycle form then return null.
-            return NULL;
-
-        slow=head;              // if cucle form then slow further intialize to head
-        while(slow!=fast){
-            slow=slow->next;
-            fast=fast->next;
-        }
-        return slow;     // it return the index where loop formed
-        
+        return NULL; // no cycle
     }
 };
