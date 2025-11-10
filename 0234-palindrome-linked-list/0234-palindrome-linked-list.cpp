@@ -10,49 +10,44 @@
  */
 
 class Solution {
-private:
-    // Iteratively reverse a linked list and return new head.
-    ListNode* reverse(ListNode* head) {
-        ListNode* prev = nullptr;
-        while (head) {
-            ListNode* nxt = head->next;
-            head->next = prev;
-            prev = head;
-            head = nxt;
-        }
-        return prev;
+    ListNode* reverseLL(ListNode* head) {
+        if (head == NULL || head->next == NULL) return head;
+        ListNode* newHead = reverseLL(head->next);
+        head->next->next = head;   // ✅ connect the next node back to head
+        head->next = NULL;         // ✅ break the original link
+        return newHead;
     }
 
 public:
     bool isPalindrome(ListNode* head) {
         if (!head || !head->next) return true;
 
-        // Find middle (slow will point to end of first half)
+        // Step 1: Find middle (slow will end at the midpoint)
         ListNode* slow = head;
         ListNode* fast = head;
-        while (fast->next && fast->next->next) {
+        while (fast->next != NULL && fast->next->next != NULL) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        // Reverse second half
-        ListNode* secondHead = reverse(slow->next);
+        // Step 2: Reverse second half
+        ListNode* secondHead = reverseLL(slow->next);
+        ListNode* first = head;
+        ListNode* second = secondHead;
 
-        // Compare first and reversed second half
-        ListNode* p1 = head;
-        ListNode* p2 = secondHead;
+        // Step 3: Compare both halves
         bool palindrome = true;
-        while (p2) {
-            if (p1->val != p2->val) {
+        while (second != NULL) {
+            if (first->val != second->val) {
                 palindrome = false;
                 break;
             }
-            p1 = p1->next;
-            p2 = p2->next;
+            first = first->next;
+            second = second->next;
         }
 
-        // Restore original list
-        slow->next = reverse(secondHead);
+        // Step 4: Restore the list (optional)
+        slow->next = reverseLL(secondHead);
 
         return palindrome;
     }
