@@ -9,7 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if (head==nullptr || head->next==nullptr || head->next->next==nullptr)
+        if (head==NULL || head->next==NULL || head->next->next==NULL)
              return false;
         ListNode* fast=head;
         ListNode* slow=head;
@@ -19,7 +19,7 @@ public:
             fast=fast->next->next;
             
             if(fast==slow)      //condition for cycle in linkedlist.
-            return true;
+                return true;
         }
         return false;
         
