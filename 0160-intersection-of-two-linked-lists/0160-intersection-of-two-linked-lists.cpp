@@ -9,21 +9,18 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        //store node in map.
-        unordered_map<ListNode* ,int> mpp;
-        ListNode* temp=headA;
-        while(temp!=NULL)
+        if(headA==NULL || headB==NULL) return NULL;
+        ListNode * temp1=headA;
+        ListNode * temp2=headB;
+        while(temp1!=temp2)
         {
-            mpp[temp]=1;
-            temp=temp->next;
+            temp1=temp1->next;
+            temp2=temp2->next;
+
+            if(temp1==temp2) return temp1;
+            if(temp1==NULL) temp1=headB;
+            if(temp2==NULL) temp2=headA;
         }
-        //check the same node revisited or not if visited then return node.
-        temp=headB;
-        while(temp!=NULL)
-        {
-            if(mpp.find(temp)!=mpp.end()) return temp; // visited node return .
-            temp=temp->next;
-        }
-        return NULL;
+        return temp1;
     }
 };
