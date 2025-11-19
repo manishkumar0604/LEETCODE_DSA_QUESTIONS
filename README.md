@@ -67,6 +67,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2358-number-of-ways-to-split-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
@@ -150,6 +151,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manishkumar0604/DSA_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2836-neither-minimum-nor-maximum](https://github.com/manishkumar0604/DSA_practice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2887-sort-vowels-in-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manishkumar0604/DSA_practice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -248,6 +250,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/manishkumar0604/DSA_practice/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -316,6 +319,7 @@
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manishkumar0604/DSA_practice/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/manishkumar0604/DSA_practice/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
