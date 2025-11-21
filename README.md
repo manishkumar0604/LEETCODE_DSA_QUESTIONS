@@ -46,6 +46,7 @@
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/manishkumar0604/DSA_practice/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
@@ -147,6 +148,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
+| [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -348,6 +350,7 @@
 | [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -518,6 +521,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/manishkumar0604/DSA_practice/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Combinatorics
 |  |
