@@ -82,6 +82,7 @@
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/manishkumar0604/DSA_practice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/manishkumar0604/DSA_practice/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/manishkumar0604/DSA_practice/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
@@ -295,6 +296,7 @@
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/manishkumar0604/DSA_practice/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
