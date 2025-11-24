@@ -282,6 +282,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/manishkumar0604/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/manishkumar0604/DSA_practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/manishkumar0604/DSA_practice/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
@@ -315,6 +316,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/manishkumar0604/DSA_practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/manishkumar0604/DSA_practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/manishkumar0604/DSA_practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/manishkumar0604/DSA_practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
@@ -343,6 +345,7 @@
 | [0078-subsets](https://github.com/manishkumar0604/DSA_practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/manishkumar0604/DSA_practice/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
