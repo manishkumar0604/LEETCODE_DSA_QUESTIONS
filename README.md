@@ -51,6 +51,7 @@
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/manishkumar0604/DSA_practice/tree/master/1127-last-stone-weight) |
@@ -346,6 +347,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Greedy
 |  |
