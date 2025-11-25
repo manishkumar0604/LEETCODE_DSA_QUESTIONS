@@ -252,6 +252,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/manishkumar0604/DSA_practice/tree/master/0782-jewels-and-stones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkumar0604/DSA_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/manishkumar0604/DSA_practice/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manishkumar0604/DSA_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -289,6 +290,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/manishkumar0604/DSA_practice/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/manishkumar0604/DSA_practice/tree/master/1642-water-bottles) |
