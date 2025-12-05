@@ -96,6 +96,7 @@
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -310,6 +311,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3568-find-the-key-of-the-numbers](https://github.com/manishkumar0604/DSA_practice/tree/master/3568-find-the-key-of-the-numbers) |
@@ -451,6 +453,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2358-number-of-ways-to-split-array) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
