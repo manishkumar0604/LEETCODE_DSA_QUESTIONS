@@ -2,11 +2,11 @@ class Solution {
 public:
     int countOdds(int low, int high) {
         int count=0;
-        for(int i=low;i<high+1;i++)
+        while(low<=high)
         {
-            if(i%2==1) count++;
+            if(low%2==1) count++;
+            low++;
         }
         return count;
-        
     }
 };
