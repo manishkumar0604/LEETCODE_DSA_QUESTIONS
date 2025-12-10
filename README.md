@@ -66,6 +66,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/manishkumar0604/DSA_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/manishkumar0604/DSA_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -304,6 +305,7 @@
 | [1817-calculate-money-in-leetcode-bank](https://github.com/manishkumar0604/DSA_practice/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/manishkumar0604/DSA_practice/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -406,6 +408,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
