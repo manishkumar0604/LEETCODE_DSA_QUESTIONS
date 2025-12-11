@@ -308,6 +308,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/manishkumar0604/DSA_practice/tree/master/2413-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2582-pass-the-pillow](https://github.com/manishkumar0604/DSA_practice/tree/master/2582-pass-the-pillow) |
 | [2630-alternating-digit-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/2630-alternating-digit-sum) |
@@ -409,6 +410,7 @@
 | [0204-count-primes](https://github.com/manishkumar0604/DSA_practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/manishkumar0604/DSA_practice/tree/master/2413-smallest-even-multiple) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
