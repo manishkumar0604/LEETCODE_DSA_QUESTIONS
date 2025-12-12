@@ -203,6 +203,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/manishkumar0604/DSA_practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/manishkumar0604/DSA_practice/tree/master/0782-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/manishkumar0604/DSA_practice/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkumar0604/DSA_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -298,6 +299,7 @@
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manishkumar0604/DSA_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/manishkumar0604/DSA_practice/tree/master/1636-number-of-substrings-with-only-1s) |
