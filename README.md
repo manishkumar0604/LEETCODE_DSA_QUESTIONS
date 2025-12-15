@@ -69,6 +69,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/manishkumar0604/DSA_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -311,6 +312,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1965-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2288-count-operations-to-obtain-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/manishkumar0604/DSA_practice/tree/master/2413-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -481,6 +483,7 @@
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/1668-maximum-repeating-substring) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
