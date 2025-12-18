@@ -51,6 +51,7 @@
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -381,6 +382,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/manishkumar0604/DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -487,6 +489,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
+| [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/1668-maximum-repeating-substring) |
