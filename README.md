@@ -210,6 +210,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/manishkumar0604/DSA_practice/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/manishkumar0604/DSA_practice/tree/master/0782-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/manishkumar0604/DSA_practice/tree/master/1205-defanging-an-ip-address) |
@@ -241,6 +242,7 @@
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
@@ -394,6 +396,7 @@
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
