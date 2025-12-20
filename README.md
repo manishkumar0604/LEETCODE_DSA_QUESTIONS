@@ -240,6 +240,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/manishkumar0604/DSA_practice/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -596,4 +597,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manishkumar0604/DSA_practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/manishkumar0604/DSA_practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
