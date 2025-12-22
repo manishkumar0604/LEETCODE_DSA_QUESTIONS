@@ -215,6 +215,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/manishkumar0604/DSA_practice/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/manishkumar0604/DSA_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/manishkumar0604/DSA_practice/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -251,6 +252,7 @@
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -405,6 +407,7 @@
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -563,6 +566,7 @@
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/manishkumar0604/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
 | ------- |
