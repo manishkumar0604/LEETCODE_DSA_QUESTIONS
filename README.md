@@ -232,6 +232,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/manishkumar0604/DSA_practice/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/manishkumar0604/DSA_practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/manishkumar0604/DSA_practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -498,6 +499,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2358-number-of-ways-to-split-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/manishkumar0604/DSA_practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
