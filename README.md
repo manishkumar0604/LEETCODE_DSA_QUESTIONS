@@ -51,6 +51,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
@@ -170,6 +171,7 @@
 | [0414-third-maximum-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/1210-mean-of-array-after-removing-some-elements) |
