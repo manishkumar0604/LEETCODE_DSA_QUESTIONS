@@ -339,6 +339,7 @@
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1323-maximum-69-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/manishkumar0604/DSA_practice/tree/master/1390-four-divisors) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manishkumar0604/DSA_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -430,6 +431,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1323-maximum-69-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1323-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/manishkumar0604/DSA_practice/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2767-maximum-sum-with-exactly-k-elements) |
