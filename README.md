@@ -109,6 +109,7 @@
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/manishkumar0604/DSA_practice/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/manishkumar0604/DSA_practice/tree/master/3321-type-of-triangle) |
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
@@ -432,6 +433,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/manishkumar0604/DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/manishkumar0604/DSA_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/manishkumar0604/DSA_practice/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Greedy
 |  |
 | ------- |
