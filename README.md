@@ -26,6 +26,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manishkumar0604/DSA_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manishkumar0604/DSA_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/manishkumar0604/DSA_practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/manishkumar0604/DSA_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/manishkumar0604/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
@@ -346,6 +348,7 @@
 | [0066-plus-one](https://github.com/manishkumar0604/DSA_practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manishkumar0604/DSA_practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/manishkumar0604/DSA_practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/manishkumar0604/DSA_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/manishkumar0604/DSA_practice/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0202-happy-number) |
