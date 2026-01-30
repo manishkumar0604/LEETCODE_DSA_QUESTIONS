@@ -58,6 +58,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -286,6 +287,7 @@
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/manishkumar0604/DSA_practice/tree/master/1078-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -633,6 +635,7 @@
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
