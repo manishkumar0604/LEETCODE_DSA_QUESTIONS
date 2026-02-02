@@ -89,6 +89,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/manishkumar0604/DSA_practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/manishkumar0604/DSA_practice/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2058-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/manishkumar0604/DSA_practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -297,6 +298,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/manishkumar0604/DSA_practice/tree/master/2000-reverse-prefix-of-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/manishkumar0604/DSA_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2104-sum-of-subarray-ranges](https://github.com/manishkumar0604/DSA_practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -643,6 +645,7 @@
 | [0503-next-greater-element-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2104-sum-of-subarray-ranges](https://github.com/manishkumar0604/DSA_practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Ordered Set
 |  |
 | ------- |
