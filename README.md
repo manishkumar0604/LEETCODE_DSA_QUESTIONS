@@ -241,6 +241,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/manishkumar0604/DSA_practice/tree/master/0443-string-compression) |
@@ -288,6 +289,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/manishkumar0604/DSA_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/manishkumar0604/DSA_practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/manishkumar0604/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0503-next-greater-element-ii) |
@@ -463,6 +465,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/manishkumar0604/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/manishkumar0604/DSA_practice/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/manishkumar0604/DSA_practice/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manishkumar0604/DSA_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -640,6 +643,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/manishkumar0604/DSA_practice/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/manishkumar0604/DSA_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0503-next-greater-element-ii) |
