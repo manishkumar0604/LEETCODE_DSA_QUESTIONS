@@ -1,25 +1,25 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n=height.size();
-        if(n == 0) return 0;
-        vector<int> prefix(n), suffix(n);
-        // prefix max
-        prefix[0]=height[0];
-        for(int i=1; i<n; i++)
-            prefix[i]=max(prefix[i - 1] , height[i]);
+        int lmax=0,rmax=0,total=0;
+        int l=0,r=height.size()-1;
 
-        // suffix max
-        suffix[n - 1] = height[n - 1];
-        for(int i=n - 2; i>=0; i--)
-            suffix[i]=max(suffix[i + 1], height[i]);
+        while(l<r)
+        {
+            if(height[l]<=height[r])
+            {
+                if(lmax>height[l]) total+=lmax-height[l];
+                else lmax=height[l];
+                l++;
+            }
 
-        int total = 0;
-        // calculate trapped water
-        for (int i = 0; i < n; i++) {
-            total += min(prefix[i], suffix[i]) - height[i];
+            else
+            {
+                if(rmax>height[r]) total+=rmax-height[r];
+                else rmax=height[r];
+                r--;
+            }
         }
-
         return total;
     }
 };
