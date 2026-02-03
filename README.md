@@ -129,6 +129,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/manishkumar0604/DSA_practice/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3637-trionic-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3637-trionic-array-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
