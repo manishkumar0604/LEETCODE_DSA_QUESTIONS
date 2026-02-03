@@ -1,22 +1,23 @@
+
 class Solution {
 public:
-    //two pointers .
     int lengthOfLongestSubstring(string s) {
-        vector<bool> count(256,0);
-        int first=0,second=0,maxlen=0;
-        while(second<s.size())
+        vector<int> hash(256, -1);
+        int l=0, r=0, maxlen=0;
+        int n=s.size();
+
+        while(r<n)
         {
-            //repeating letter
-            while(count[s[second]])
+            // If character seen before AND inside current window
+            if(hash[s[r]] != -1 && hash[s[r]] >= l)
             {
-                count[s[first]]=0;
-                first++;
+                l = hash[s[r]] + 1;
             }
-            count[s[second]]=1;
-            maxlen=max(maxlen,second-first+1);
-            second++;
+
+            hash[s[r]] = r;               // update last seen index
+            maxlen=max(maxlen, r-l+1);
+            r++;
         }
         return maxlen;
-        
     }
 };
