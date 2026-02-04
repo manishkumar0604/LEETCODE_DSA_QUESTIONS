@@ -9,7 +9,7 @@ public:
         {
             mpp[fruits[r]]++;
             // Shrink window if more than 2 fruit types
-            while(mpp.size() > 2)
+            if(mpp.size() > 2)
             {
                 mpp[fruits[l]]--;
                 if(mpp[fruits[l]] == 0) mpp.erase(fruits[l]);   // erase by KEY
