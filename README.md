@@ -124,6 +124,7 @@
 | [3324-split-the-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3324-split-the-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/manishkumar0604/DSA_practice/tree/master/3334-apple-redistribution-into-boxes) |
 | [3373-maximum-prime-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3373-maximum-prime-difference) |
+| [3379-transformed-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-transformed-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -437,6 +438,7 @@
 | [2639-separate-the-digits-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2639-separate-the-digits-in-an-array) |
 | [3220-count-tested-devices-after-test-operations](https://github.com/manishkumar0604/DSA_practice/tree/master/3220-count-tested-devices-after-test-operations) |
 | [3226-minimum-number-game](https://github.com/manishkumar0604/DSA_practice/tree/master/3226-minimum-number-game) |
+| [3379-transformed-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3379-transformed-array) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/manishkumar0604/DSA_practice/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/manishkumar0604/DSA_practice/tree/master/3811-reverse-degree-of-a-string) |
