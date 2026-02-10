@@ -133,6 +133,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3634-minimum-removals-to-balance-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 | [3778-transform-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/3778-transform-array-by-parity) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/manishkumar0604/DSA_practice/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -351,6 +352,7 @@
 | [3412-permutation-difference-between-two-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/manishkumar0604/DSA_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/manishkumar0604/DSA_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -575,6 +577,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/manishkumar0604/DSA_practice/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -603,6 +606,7 @@
 | [0191-number-of-1-bits](https://github.com/manishkumar0604/DSA_practice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0347-top-k-frequent-elements) |
+| [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -723,4 +727,8 @@
 | [0183-customers-who-never-order](https://github.com/manishkumar0604/DSA_practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/manishkumar0604/DSA_practice/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/manishkumar0604/DSA_practice/tree/master/0577-employee-bonus) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/manishkumar0604/DSA_practice/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
