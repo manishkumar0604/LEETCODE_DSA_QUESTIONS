@@ -67,6 +67,7 @@
 | [0941-sort-array-by-parity](https://github.com/manishkumar0604/DSA_practice/tree/master/0941-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -505,6 +506,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/manishkumar0604/DSA_practice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manishkumar0604/DSA_practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -567,6 +569,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/manishkumar0604/DSA_practice/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manishkumar0604/DSA_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/manishkumar0604/DSA_practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -577,6 +580,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/manishkumar0604/DSA_practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/manishkumar0604/DSA_practice/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/manishkumar0604/DSA_practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1603-running-sum-of-1d-array](https://github.com/manishkumar0604/DSA_practice/tree/master/1603-running-sum-of-1d-array) |
