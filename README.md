@@ -746,6 +746,7 @@
 | [0184-department-highest-salary](https://github.com/manishkumar0604/DSA_practice/tree/master/0184-department-highest-salary) |
 | [0577-employee-bonus](https://github.com/manishkumar0604/DSA_practice/tree/master/0577-employee-bonus) |
 | [0601-human-traffic-of-stadium](https://github.com/manishkumar0604/DSA_practice/tree/master/0601-human-traffic-of-stadium) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Segment Tree
 |  |
 | ------- |
