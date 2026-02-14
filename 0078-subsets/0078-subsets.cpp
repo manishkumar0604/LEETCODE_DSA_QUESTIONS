@@ -1,22 +1,21 @@
 class Solution {
 public:
-    int n;
-    vector<vector<int>>ans;
-    void solve(vector<int>&nums,vector<int>&temp,int i){
-        if(i>=n){
+    void subseq(vector<int> nums,int index,int n,vector<vector<int>> &ans, vector<int> &temp)
+    {
+        if(index==n)
+        {
             ans.push_back(temp);
             return;
         }
-        temp.push_back(nums[i]);
-        solve(nums,temp,i+1);
-
-        temp.pop_back();
-        solve(nums,temp,i+1);
+        subseq(nums,index+1,n,ans,temp); //not include
+        temp.push_back(nums[index]);    //if we include
+        subseq(nums,index+1,n,ans,temp);
+        temp.pop_back(); //optimize space complexity 
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        n=nums.size();
-        vector<int>temp;
-        solve(nums,temp,0);
+        vector<vector<int>> ans; 
+        vector<int> temp;
+        subseq(nums,0,nums.size(),ans,temp);
         return ans;
     }
 };
