@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void subseq(vector<int> nums,int index,int n,vector<vector<int>> &ans, vector<int> &temp)
+    void subseq(vector<int> &nums,int index,int n,vector<vector<int>> &ans, vector<int> &temp)
     {
         if(index==n)
         {
