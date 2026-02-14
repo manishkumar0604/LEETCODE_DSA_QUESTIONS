@@ -1,24 +1,32 @@
 class Solution {
 public:
-    void backtrack(vector<string>& ans, string current, int open, int close, int n) {
-        // If the current string is complete
-        if (current.size() == 2 * n) {
-            ans.push_back(current);
+    void parentheses(int n,int left,int right,vector<string> &ans,string & temp)
+    {
+        //base condition
+        if(left+right==2*n)
+        {
+            ans.push_back(temp);
             return;
         }
-
-        // If we can still add an open parenthesis
-        if (open < n)
-            backtrack(ans, current + '(', open + 1, close, n);
-
-        // If we can add a closing parenthesis
-        if (close < open)
-            backtrack(ans, current + ')', open, close + 1, n);
+        //left parentheses
+        if(left<n)
+        {
+            temp.push_back('(');
+            parentheses(n,left+1,right,ans,temp);
+            temp.pop_back();
+        }
+        //right parentheses
+        if(right<left)
+        {
+            temp.push_back(')');
+            parentheses(n,left,right+1,ans,temp);
+            temp.pop_back();
+        }
     }
-
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
-        backtrack(ans, "", 0, 0, n);
+        string temp;
+        parentheses(n,0,0,ans,temp);
         return ans;
     }
 };
