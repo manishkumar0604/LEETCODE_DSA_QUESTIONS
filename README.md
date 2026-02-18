@@ -474,6 +474,7 @@
 | [0287-find-the-duplicate-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/manishkumar0604/DSA_practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/manishkumar0604/DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
