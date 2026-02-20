@@ -759,6 +759,7 @@
 | [0182-duplicate-emails](https://github.com/manishkumar0604/DSA_practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/manishkumar0604/DSA_practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/manishkumar0604/DSA_practice/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/manishkumar0604/DSA_practice/tree/master/0185-department-top-three-salaries) |
 | [0577-employee-bonus](https://github.com/manishkumar0604/DSA_practice/tree/master/0577-employee-bonus) |
 | [0601-human-traffic-of-stadium](https://github.com/manishkumar0604/DSA_practice/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0619-biggest-single-number) |
