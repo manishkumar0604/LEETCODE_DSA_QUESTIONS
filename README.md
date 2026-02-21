@@ -389,6 +389,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manishkumar0604/DSA_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manishkumar0604/DSA_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -475,6 +476,7 @@
 | [0389-find-the-difference](https://github.com/manishkumar0604/DSA_practice/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/manishkumar0604/DSA_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/manishkumar0604/DSA_practice/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manishkumar0604/DSA_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/manishkumar0604/DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
