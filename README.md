@@ -62,6 +62,7 @@
 | [0739-daily-temperatures](https://github.com/manishkumar0604/DSA_practice/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/manishkumar0604/DSA_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/manishkumar0604/DSA_practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
@@ -391,6 +392,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manishkumar0604/DSA_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/manishkumar0604/DSA_practice/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/manishkumar0604/DSA_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/manishkumar0604/DSA_practice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -617,6 +619,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/manishkumar0604/DSA_practice/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/manishkumar0604/DSA_practice/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/manishkumar0604/DSA_practice/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/manishkumar0604/DSA_practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -775,4 +778,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0912-sort-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
