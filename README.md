@@ -767,6 +767,7 @@
 | [0184-department-highest-salary](https://github.com/manishkumar0604/DSA_practice/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/manishkumar0604/DSA_practice/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/manishkumar0604/DSA_practice/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/manishkumar0604/DSA_practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/manishkumar0604/DSA_practice/tree/master/0577-employee-bonus) |
 | [0601-human-traffic-of-stadium](https://github.com/manishkumar0604/DSA_practice/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0619-biggest-single-number) |
