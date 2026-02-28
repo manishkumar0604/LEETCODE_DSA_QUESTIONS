@@ -772,6 +772,7 @@
 | [0196-delete-duplicate-emails](https://github.com/manishkumar0604/DSA_practice/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/manishkumar0604/DSA_practice/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/manishkumar0604/DSA_practice/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/manishkumar0604/DSA_practice/tree/master/0584-find-customer-referee) |
 | [0601-human-traffic-of-stadium](https://github.com/manishkumar0604/DSA_practice/tree/master/0601-human-traffic-of-stadium) |
 | [0619-biggest-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
