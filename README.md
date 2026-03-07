@@ -783,6 +783,7 @@
 | [0627-swap-sex-of-employees](https://github.com/manishkumar0604/DSA_practice/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/manishkumar0604/DSA_practice/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/manishkumar0604/DSA_practice/tree/master/1211-queries-quality-and-percentage) |
 ## Segment Tree
 |  |
 | ------- |
