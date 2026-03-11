@@ -489,6 +489,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manishkumar0604/DSA_practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/manishkumar0604/DSA_practice/tree/master/0868-binary-gap) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/manishkumar0604/DSA_practice/tree/master/0898-bitwise-ors-of-subarrays) |
+| [1009-complement-of-base-10-integer](https://github.com/manishkumar0604/DSA_practice/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/manishkumar0604/DSA_practice/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/manishkumar0604/DSA_practice/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/manishkumar0604/DSA_practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
