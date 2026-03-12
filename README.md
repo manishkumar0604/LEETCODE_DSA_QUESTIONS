@@ -24,6 +24,7 @@
 | [0088-merge-sorted-array](https://github.com/manishkumar0604/DSA_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishkumar0604/DSA_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/manishkumar0604/DSA_practice/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/manishkumar0604/DSA_practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -502,6 +503,7 @@
 | [0011-container-with-most-water](https://github.com/manishkumar0604/DSA_practice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/manishkumar0604/DSA_practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/manishkumar0604/DSA_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/manishkumar0604/DSA_practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/manishkumar0604/DSA_practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/manishkumar0604/DSA_practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/manishkumar0604/DSA_practice/tree/master/0402-remove-k-digits) |
